@@ -1,0 +1,13 @@
+{
+  "Abb_Korpus_Sankey_K3.pdf": "504f1b8469c74dc25885b60ae52ce13aa506e55291c0950db89b466f09142bdf",
+  "Abb_Korpus_Sankey_K3.png": "cba0b7db0d8c161f85e61d7f7b15858b80a88e54177fdfefa18e6e521c1576a7",
+  "Abb_Korpus_Sankey_K3.svg": "6e77ee8ef8c3d30ff8e2c83207b99e7ead7417e804c2bb6c5c3a70a15dc61122",
+  "Abb_Korpus_Sankey_K3_mit_Lesetext.pdf": "d36ac3916963c609ae714c7dc7df4fa0218bd3cea137ed5d70e305e171717d70",
+  "Description.en.md": "e62b15a916ca5566383bee09f7872c64dc1711bf2282e7898f7a4946f027e389",
+  "FONT_LICENSE.txt": "3361d054759a2fc686a2c058be82deaf9c2e6fe549be9004d7935a6c1736315d",
+  "Lesetext.md": "84e942a3860d7a530389ed575f372578c6fcb0660ea0c43886ce5850e541a8ec",
+  "README.md": "4fd8e0581dfae6f0c4dd5b7aaabfddecde6cd6e524c3d18aeca80d708d472ec0",
+  "build_sankey.py": "ff6ec97bbbe034375599b00940efc5055e1b235072b460da998360d30b6c1ddf",
+  "requirements.txt": "6c5c8f18e275ca6f26ef56387136452c5382fdf6c0590eea68a78c2f6f6ae1ea",
+  "sankey_data.json": "dc32e8197cbbe1fdc8021ee4f60e8c2e468d1d407234f4300b02e2f1a54e22bf"
+}

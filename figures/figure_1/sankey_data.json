@@ -1,0 +1,39 @@
+{
+  "stem": "Abb_Korpus_Sankey_K3",
+  "title": "Auswahlwege und Nahlektüren",
+  "subtitle": "Bandbreite proportional zum jeweiligen Ausgangsbestand: DE 245 · CN 962 · BT 220",
+  "caption": "Korpusbildung und gezielte Belegauswahl für Aufsatz_v12. Die Bandbreite ist je Bahn auf den Ausgangsbestand bezogen. Die rechten Felder zeigen sieben deutsche Portalbeiträge, sechs chinesische und acht Plattformbeiträge; zwei Kommentare ergänzen den Fall DE-164. Die interpretative Auswahl ist durch dünne, nicht mengenproportionale Verbindungen angebunden.",
+  "columns": [
+    "Bestand",
+    "Auswahl",
+    "KI-Bezug",
+    "Kerne",
+    "Nahlektüren"
+  ],
+  "corpora": [
+    {
+      "id": "de",
+      "title": "DE",
+      "harvest": "245",
+      "note": "Inv. + 13",
+      "base": 245,
+      "color": "#246b91"
+    },
+    {
+      "id": "cn",
+      "title": "CN",
+      "harvest": "962",
+      "note": "Inventar",
+      "base": 962,
+      "color": "#a45121"
+    },
+    {
+      "id": "bt",
+      "title": "BT",
+      "harvest": "220",
+      "note": "aus 22.563",
+      "base": 220,
+      "color": "#6351a4"
+    }
+  ]
+}

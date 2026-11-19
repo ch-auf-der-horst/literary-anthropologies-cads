@@ -1,0 +1,100 @@
+{
+  "stem": "Abb_Autorschaft_K8",
+  "title": "Begründungen menschlicher Autorschaft",
+  "subtitle": "Vergleichende Synthese zu Abschnitt 8",
+  "start": [
+    "Generative KI als Anlass,",
+    "menschliche Autorschaft zu begründen"
+  ],
+  "finding": [
+    "Schöpferischer Rang und personale Zurechnung",
+    "können auseinanderfallen.",
+    "Die Offenlegung einer Beteiligung macht sie prüfbar,",
+    "ohne ihre Anerkennung schon zu sichern."
+  ],
+  "caption": "Begründungen menschlicher Autorschaft und personale Zurechnung in Aufsatz_v12. Die Gabelung stellt Bewertungen menschlicher Beteiligung gegenüber, keine identischen Abläufe oder ausschließlichen Kategorien. Kommentare beziehen sich auf dasselbe Experiment DE-164. Der englische Plattformfall betrifft beauftragte Illustrationen.",
+  "paths": {
+    "herkunft": {
+      "title": "Entstehungsgeschichte",
+      "claim": "Erfahrung und Biografie",
+      "cases": [
+        [
+          "Delabar · DE-018",
+          "Gewordensein"
+        ],
+        [
+          "Li Shaojun · CN-021",
+          "erzählbare Entstehung"
+        ],
+        [
+          "BT-DE-A-022",
+          "eigene Ideenfindung"
+        ]
+      ]
+    },
+    "arbeit": {
+      "title": "Arbeit am Text",
+      "claim": "Anregen, steuern, beurteilen",
+      "before": [
+        "Bauer · DE-162",
+        "anregen und anerkennen"
+      ]
+    },
+    "verantwortung": {
+      "title": "Öffentliche Verantwortung",
+      "claim": "Name und Zuständigkeit",
+      "cases": [
+        [
+          "Tischer · DE-164",
+          "Name für die Publikation"
+        ],
+        [
+          "Heß · DE-025",
+          "für ein Urteil einstehen"
+        ],
+        [
+          "BT-EN-A-001",
+          "Auftragsillustrationen"
+        ]
+      ]
+    }
+  },
+  "fork": {
+    "hinge": [
+      "Welche Beteiligung gilt",
+      "als schöpferisch?"
+    ],
+    "keep": {
+      "title": [
+        "Eigenes Vorhaben",
+        "und Bearbeitung"
+      ],
+      "cases": [
+        [
+          "Xu Junrui · CN-018",
+          "Konzeption und Abschluss"
+        ],
+        [
+          "Tischer · DE-164",
+          "Prompts und Lektorat"
+        ]
+      ]
+    },
+    "loss": {
+      "title": [
+        "Distanz zum Schaffen",
+        "und weitere Einwände"
+      ],
+      "cases": [
+        [
+          "Zhang Minghui · CN-022",
+          "Auswahl als Zensorrolle"
+        ],
+        [
+          "DE-164-K1 / K2",
+          "Kritik am KI-Experiment"
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# Corpus assisted discourse studies and close reading
+
+Methodological reference: Clyde Ancarno (2020), “Corpus-Assisted Discourse Studies”, in *The Cambridge Handbook of Discourse Studies*, pp. 165–185, especially pp. 165–170 and 174–180. [DOI](https://doi.org/10.1017/9781108348195.009).
+
+The study uses corpus procedures for exploration, orientation and targeted follow-up searches, with an emphasis on contextual discourse interpretation. Search series in the German material led from concordances to contextual reading; earlier coding identified recurring questions and positions. The present close readings examine speaker roles, contexts of utterance and the evidential function of passages. They are not simply interpretations of word frequencies.
+
+The word-form analysis covers 49 German article bodies, with 12,925 tokens from literaturkritik.de and 30,923 from literaturcafe.de. Fourteen documented word forms were counted after lowercasing, without lemmatisation. The form *schreiben* (“to write”/“writing”) occurs fourteen and 84 times, respectively: rounded rates of 10.8 and 27.2 per 10,000 tokens. *Kennzeichnung* (“labelling”) occurs 33 times across six literaturcafe.de articles and does not occur in the selected literaturkritik.de material. These distributions guide reading; they establish neither the evaluative meaning of a use nor a distribution of anthropological positions. No new keyness or collocation analysis was conducted for manuscript v12.
+
+Exploration of the Chinese material used translated texts and categories, with a return to the Chinese original for the evidence used in the article. It does not yield a frequency measure comparable to the German word-form counts. The platform selection rests on the documented retrieval and screening; captions and two saved speech transcripts are the textual layers analysed.
+
+The 21 main contributions comprise seven German portal articles, six Chinese contributions, six German BookTok posts and two English BookTok posts. Two additional comments respond to the same German production report; an additional journalistic report clarifies the reporting of Chinese exclusion announcements. The figures and case index distinguish these sets. Computational reproducibility and source checks do not replace independent linguistic verification or establish the validity of the interpretation.
